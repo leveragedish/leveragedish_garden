@@ -1,7 +1,19 @@
 ---
 title: clean and jerk
-draft: true
+draft: false
 tags:
-  - template
-date: 2025-07-01
+  - weightlifting
+date: 2025-07-04
 ---
+> “Snatch what you can, clean and jerk what you must.” - Dave Spitz, Cal Strength
+
+Alright, I’ll just come out and say it. I hate doing the clean. Shocking, I know. “How can you hate 50% of your sport?” well, I do. Now, to be more specific, I hate doing the full clean. Power cleans are fine. And it’s not because I’m bad at it. By the numbers, I’m actually very good at cleans. In weightlifting, people gauge efficiency in the movements by looking at the ratios between lifts, typically between the more technical lifts relative to the “pure strength” movements. So, snatch to back squat, clean to front squat, front squat to back squat, clean to clean deadlift and so on. Generally, to be considered “efficient in the clean”, you should be cleaning around 85-90% of your front squat. And the front squat should be roughly 80-90% of the back squat. So taking a look at my personal stats (circa May 2025) I have a back squat of 400lbs, front squat of 325lbs, and a clean of 285lbs. That puts my ratios at:
+- clean/front squat 87.6%
+- front squat/back squat 81%
+I’m efficient. I have a good clean. Sure, I could push my front squat more relative to my back squat, but that’s not what this essay is about. All this to say, I don’t like the clean, and it’s not because I’m bad at it. To me, the clean feels clunky, inelegant, prone to being muscled. It’s not a beautiful, perfect movement like the [[snatch]]. And yet, weightlifting competitions are won by the clean and jerk. So goes the great quote by Dave Spitz, “Snatch what you can, clean and jerk what you must.” Why is this so true? Mostly, it’s physics fault. Assuming some level of weightlifting efficiency, you can almost always clean and jerk much more than you snatch, so the sheer magnitude of the numbers makes the difference. The entire sport of weightlifting comes down to “biggest number on the board wins”, and so if the clean and jerk accounts for around 60-70% of the total, you’d better be damn good at it.
+
+To be fair, the clean is often the first movement you learn in weightlifting, and its much more prevalent than the snatch in the broader strength and conditioning community. Everyone who plays football, basketball, baseball, track knows what a clean is, and I’m sure they’ve done plenty. The clean is one of the best movements for developing explosiveness, teaching an athlete how to use their hips and posterior chain to generate power, and has huge transferability to their sports. But still, it’s ugly and clunky. It feels like you’re using a hammer, and you can just swing it as hard as you can and it still *does* something. Maybe that’s part of my distaste for it. It’s not as punishing as trying to force the snatch, a movement where you’ll get immediately humbled if you don’t respect it. You can very much muscle a clean, have bad form, just be strong as fuck and still get through it. You can’t do that with a snatch. The physics of the movement has a higher threshold on minimum viable technique. You have to actually care and be mindful of how you’re doing it, or else you’ll look stupid with 95lbs on the bar and your ass on the floor. All this to say, the clean is a necessary evil in the sport. You have to do it, and if you want to win, you have to do it well. 
+
+Now the jerk is a different story. The jerk is fun. The movement of the jerk might be one of a small list of activities I would say I have “natural” talent in. I never had to practice it much to be really good at it. The first day I tried it, it just clicked. The speed, snappiness of it felt right. I’ve been doing the sport of weightlifting since 2014, and I can count on one hand the amount of times that I’ve felt I needed to actually “work” on my jerk from an efficiency standpoint (remember the ratios).
+
+The jerk is a blink. It’s instinct. You take a deep breathe, accept that you’re throwing your entire body and head underneath a massive weight that could crush you, and you believe that you can stick it. You channel Atlas holding up the world, and you open your eyes and the bar is either firmly above you, or it’s on the floor. You don’t have any time to think, you just have to have faith that all the preparation you’ve done up until this point was enough, and the courage that you are speed, and this is the last thing you’ll have to do to wrap up the contest so you’d better do it right. That’s why I like the jerk. It’s like dessert at the end of a meal.

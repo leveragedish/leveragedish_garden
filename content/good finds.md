@@ -16,4 +16,4 @@ A collection of gems I enjoy.
 - Nice writing on [why you should have a blog](https://guzey.com/personal/why-have-a-blog/)
 - [Ben Kuhn](https://www.benkuhn.net/) - he's also got a good index of other [blogs](https://www.benkuhn.net/blogroll/) to read
 - [moontower meta](https://moontowermeta.com/) - ex SIG options trader, he has a lot of good educational content on options trading
-- 
+- [Visa's Blog](https://visakanv.com/) : writes about life and is also prolific on twitter. I really like his writing.

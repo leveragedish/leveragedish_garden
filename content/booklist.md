@@ -1,5 +1,8 @@
 An up to date list of books I’ve read and want to read.
 
+## Want to read
+If you have any book suggestions! Shoot me an email! 
+- Fear and Loathing in Las Vegas - Hunter S. Thompson
 
 ## Currently reading
 - [[Butter - Asako Yuzuki]]
