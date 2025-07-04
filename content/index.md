@@ -19,6 +19,7 @@ If you want to reach out and say hi! Shoot me an email at leveragedish@gmail.com
 
 For tracking what I'm currently reading, check out my [[booklist]].
 
+If you want to know how I built this site, or want to build your own, check out [[how i made this]]
 ### essays
 - [[on hobbies]]
 - [[on risk]]

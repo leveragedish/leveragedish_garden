@@ -3,7 +3,8 @@ title: good finds
 draft: false
 tags:
   - nugget
-date: 2025-07-01
+first published: 2025-07-01
+last updated: 2025-07-04
 ---
 A collection of gems I enjoy. 
 
@@ -17,3 +18,6 @@ A collection of gems I enjoy.
 - [Ben Kuhn](https://www.benkuhn.net/) - he's also got a good index of other [blogs](https://www.benkuhn.net/blogroll/) to read
 - [moontower meta](https://moontowermeta.com/) - ex SIG options trader, he has a lot of good educational content on options trading
 - [Visa's Blog](https://visakanv.com/) : writes about life and is also prolific on twitter. I really like his writing.
+
+### career related
+- [Things Many People Find Too Obvious To Have Told You Already](https://threadreaderapp.com/thread/936615043126370306.html)
