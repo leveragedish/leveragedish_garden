@@ -1,6 +1,6 @@
 ---
 title: tacit knowledge
-draft: true
+draft: false
 tags:
   - learning
 date: 2025-07-01

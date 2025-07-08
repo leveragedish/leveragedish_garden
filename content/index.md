@@ -15,7 +15,7 @@ serial hobbyist. trader. software engineer. data engineer. I’ve had a non-typi
 If you’re curious about the name: [[why leveragedish]]
 
 #### contact
-If you want to reach out and say hi! Shoot me an email at leveragedish@gmail.com, or on X/twitter @leveragedish. I’m still actively trying to get better at twitter.
+If you want to reach out and say hi! Shoot me an email at leveragedish@gmail.com, or on X/twitter @leveragedish. 
 
 For tracking what I'm currently reading, check out my [[booklist]].
 
@@ -26,7 +26,7 @@ If you want to know how I built this site, or want to build your own, check out 
 - [[on writing]]
 - [[on leverage]]
 - [[on learning]]
-- [[on getting hired]]
+- [[on work]]
 - [[using twitter]]
 - 
 [[stubs]] - collections of thoughts, that I may or may not write essays on in the future.
