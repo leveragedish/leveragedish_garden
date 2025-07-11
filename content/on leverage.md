@@ -22,3 +22,7 @@ Use leverage wisely; don’t use it, and you are unlikely to realize your full p
 Some of my favorite quotes related to the use of leverage:
 
 >"The central question facing borrowers -- how do I access opportunities beyond my current resources? -- is analogous to a question that inspires many of us: How do I live the fullest life? Much of what life has to offer requires the help of others... Getting that help creates a set of commitments -- and those commitments come with constraints. In short, how you are able to embed yourself in broader networks and relationships through commitments will determine your ultimate trajectory -- much as debt shapes the trajectories of firms by providing resources in return for commitments." - Mihir A. Desai
+
+
+>Inevitably, risk-taking will lead to failure, and failure should be viewed as a bad outcome with an abundance of lessons. Conflating the bad outcome of risk-taking with a sense of moral failing limits our willingness to take on risks and we lose out on the opportunity to learn from failure.
+

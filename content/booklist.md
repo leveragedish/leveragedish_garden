@@ -1,17 +1,29 @@
 An up to date list of books I’ve read and want to read.
 
-## Want to read
+## Wishlist
 If you have any book suggestions! Shoot me an email! 
 - Fear and Loathing in Las Vegas - Hunter S. Thompson
+- Kings of the Wyld - Nicholas Eames
+- Brandon Sanderson books
+- The Spear Cuts Through Water
 
+
+## To Read
+Books I've bought, but haven't actually cracked into yet.
+- Emotional Design - Don Norman
+- On Writing Well - William Zinsser
+- Getting The Words Right - Theodore A. Rees Cheney
+- On the Geneology of Morality - Nietzsche 
 ## Currently reading
 - [[Butter - Asako Yuzuki]]
-- [[Good Prose - Tracy Kidder and Richard Todd]]
-- [[Classical Philosophy - Michael Moore]]
+- [[The Elements of Style - Strunk, White, Kalman]]
 - [[Financial Hacking - Philip Maymin]]
+
 
 # Books I’ve read
 ## 2025
+- [[Classical Philosophy - Michael Moore]]
+- [[Good Prose - Tracy Kidder and Richard Todd]]
 - On Writing: A Memoir of the Craft - Stephen King 
 - Slaughterhouse-Five - Kurt Vonnegut
 - Greenlights - Matthew McConaughey

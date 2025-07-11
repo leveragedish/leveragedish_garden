@@ -30,10 +30,9 @@ This is a utilitarian first person. It helps readers to see.
 
 > The fundamental elements of a story's structure are proportion and order. Managing proportion is the art of making some things big and other things little: of creating foreground and background; of making readers feel the relative importance of characters, events, ideas. Often this means upsetting normal expectations by finding a superficially trivial detail or moment that, on closer examination, resonates with meaning.
 
-Memoirs
 > the good memoir is different from the memories behind it, not a violation of them but different, and different of course from the actual experience that gave birth both to memory and to memoir.
 
-Essays
+
 > Essays are a congenial form for the divided mind.
 
 > What gives you license to write essays? Only the presence of an idea and the ability to make it your own. People speak of the "personal essay" as a form, but all essays are personal. They may make sweeping pronouncements, but they bear the stamp of an individual mind. 
@@ -43,3 +42,6 @@ Essays
 > Essays illustrate the truth that, just as no word has an exact synonym, no idea can be exactly paraphrased.
 
 >beliefs are reached in the course of writing, and essays trace the course. "How do I know what I mean until I hear what I say?" is the familiar line. But its opposite is also true: How do I know what I don't mean until I hear what I say? Essays let you second-guess yourself, even contradict yourself in front of the reader. Self-doubt, fatal in so many enterprises, fortifies the essay.
+
+>Taking the spin off can be the solution not only to a melodromatic sentence, but to a problem of tone that affects a whole manuscript. A phrase like "someone went mad for blood" has among its other demerits, a bossy quality. Taking the spin off can be roughly translated as "Don't tell the reader how to feel."
+

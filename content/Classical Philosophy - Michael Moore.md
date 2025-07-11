@@ -30,3 +30,27 @@ Gave naturalistic explanations of celestial phenomena.
 ## Empedocles
 (c.490-430BC)
 Empedocles wrote on nature and the cosmos, and is believed to be the first to propose four elements or 'Roots'. These roots were Shining Zeus, life-bearing Hera, Aidoneus, and Nestis: Fire, Air, Earth, Water. He suggested the Universe has a cosmic cycle in which these elements are brought together and separated by Love and Strife. He also had an early form of natural selection, where in creatures are nothing more than the accumulation of body parts, initially scattered but not forming a complete animal.
+
+## Heraclitus
+- Proposed the idea of logos, and intelligible understanding available to everyone but taken up by only a few
+- View of opposites, within the hostility and opposition, there is unity.
+- Fire as a principle force
+
+### Socrates
+- The prototypical philosopher, in fact all philosophers before his time are referred to as Presocratics.
+- Focused on ethical matters, sought the universal, constantly seeking definitions
+- Never wrote anything, everything we know comes from a handful of contemporaries.
+- Was convicted of corrupting the youth and neglecting the gods of Athens, and drank hemlock to commit suicide
+- The Socratic Elenchus: He sought definitions of things and looked for the definitions of moral qualities such as temperance, wisdom, or justice.
+- Virtue is knowledge
+- No one willingly  does wrong, but they commit evil acts out of ignorance.
+
+### Plato
+(c.423-347BC)
+- Student of Socrates, set up the first school of philosophy
+- The Three-Part Soul: Logical, Spirited, Appetitive
+	- Logical - Seat of reason
+	- Spirited - Strong passions 
+	- Appetitive - Bodily desires such as food, drink, and sex
+- Theory of Forms: eternal changeless entities from which particular things in the world derive their own being. For example, there is a Form of Beauty, Wisdom, Unity, etc. Each thing that is beautiful is participating in the form of Beauty for a while, until it dies or is no longer beautiful.
+- Plato was a believer in reincarnation. He considered the process of learning to be the recollection of knowledge acquired in a previous life.

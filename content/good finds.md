@@ -21,3 +21,5 @@ A collection of gems I enjoy.
 
 ### career related
 - [Things Many People Find Too Obvious To Have Told You Already](https://threadreaderapp.com/thread/936615043126370306.html)
+- [What should you do with your life? Directions and Advice - Alexey Guzey](https://guzey.com/personal/what-should-you-do-with-your-life/)
+- 

@@ -6,39 +6,46 @@ tags:
 ---
 > "Don’t make friends who are comfortable to be with. Make friends who will force you to lever yourself up.” – Thomas J. Watson
 
-#### about
+## about me
 Hello there!
-Welcome to Leveraged-ish. I'm Lev, and this is my [[digital garden]]. This is a place where I write about life, thinking, personal philosophies, and my particular special interest (whatever that may be at the time of writing). It’s a view into the web of my networked thought, where there is no hierarchy, and you can peruse the stacks of my brain in any order you wish. 
+Welcome to Leveraged-ish. You can call me Lev, and this is my [[digital garden]]. This is a place where I write about life, finance, tech, personal philosophies, and my special interests, whatever my ADHD mind decides that may be at the time. It’s a view into the web of my networked thought, where there is no hierarchy, and you can peruse the stacks of my brain in any order you wish. 
 
-serial hobbyist. trader. software engineer. data engineer. I’ve had a non-typical [[career path]] but have found myself in a wonderful place. 
+If you want to view writings by topic, you can search for the hashtag in the side bar.
 
 If you’re curious about the name: [[why leveragedish]]
 
-#### contact
+
+## contact
 If you want to reach out and say hi! Shoot me an email at leveragedish@gmail.com, or on X/twitter @leveragedish. 
 
 For tracking what I'm currently reading, check out my [[booklist]].
 
 If you want to know how I built this site, or want to build your own, check out [[how i made this]]
-### essays
+## essays
 - [[on hobbies]]
 - [[on risk]]
 - [[on writing]]
 - [[on leverage]]
 - [[on learning]]
 - [[on work]]
-- [[using twitter]]
-- 
+- [[developing taste]]
+
 [[stubs]] - collections of thoughts, that I may or may not write essays on in the future.
-### interests
-- [[weightlifting]]
-- [[literature]]
-- [[programming]]
-- [[trading]]
-- [[philosophy]]
+## interests/studies
+- #weightlifting 
+- #literature
+- #programming 
+- #trading 
+- #philosophy 
+- #probability (also, statistics)
+- #restaurants 
+
+
 
 
 ### things i enjoy
+- [[wandering]]
+- [[the vibe of a coffeeshop]]
 - [[hyperlink surfing]]
 - internet gems: I try to share my favorites that I remember on my [[good finds]] page.
 

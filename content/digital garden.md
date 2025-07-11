@@ -3,6 +3,7 @@ title: digital garden
 draft: false
 tags:
   - meta
+  - writing
 date: 2025-07-01
 ---
 # What are digital gardens?
