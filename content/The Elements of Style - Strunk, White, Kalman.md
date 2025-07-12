@@ -36,3 +36,11 @@ last updated:
 
 >Use definite, specific, concrete language.
 
+>Omit needless words.
+
+>An unskilled writer will sometimes construct a whole paragraph of sentences of this kind(loose), using as connectives and, but, and less frequently, who, which, when, where, and while, these last in non restrictive senses. 
+
+>Place the emphatic words at the end of the sentence.
+
+
+

@@ -22,6 +22,7 @@ For tracking what I'm currently reading, check out my [[booklist]].
 
 If you want to know how I built this site, or want to build your own, check out [[how i made this]]
 ## essays
+- [[make time to do nothing]]
 - [[on hobbies]]
 - [[on risk]]
 - [[on writing]]
