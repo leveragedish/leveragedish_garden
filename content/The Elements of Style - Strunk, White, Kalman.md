@@ -42,5 +42,12 @@ last updated:
 
 >Place the emphatic words at the end of the sentence.
 
+>Who can confidently say what ignites a certain combination of words, causing them to explode in the mind? Who knows why certain notes in music are capable of stirring the listener deeply, though the same notes slightly rearranged are impotent? These are high mysteries, and this chapter is a mystery story, thinly disguised. There is no satisfactory explanation of style, no infallible guide to good writing, no assurance that a person who thinks clearly will be able to write clearly, no key that unlocks the door, no inflexible rule by which writers may shape their course. Writers will often find themselves steering by stars that are disturbingly in motion.
 
+>All writers, by the way they use the language, reveal something of their spirits, their habits, their capacities, and their biases.
 
+>All writing is communication; creative writing is communication through revelation-- it is the Self escaping into the open. 
+
+> to achieve style, begin by affecting none -- that is, place yourself in the background. A careful and honest writer does not need to worry about style. As you become proficient in the use of language, your style will emerge, because you yourself will emerge, and when this happens you will find it increasingly easy to break through the barriers that separate you from other minds, other hearts --which is, of course, the purpose of writing, as well as its principal reward.
+
+>writing is an act of faith, not a trick of grammar

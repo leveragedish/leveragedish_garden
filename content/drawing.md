@@ -1,0 +1,3 @@
+- vanishing points represent where in the distance the axis is pointing
+- you can have as many vanishing points as you want
+- 

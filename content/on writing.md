@@ -20,4 +20,5 @@ The feeling I get when I write essays is very similar to the feeling you get whe
 
 > “Essays often gain authority from a particular sensibility’s fresh apprehension of generalized wisdom. But the point is not to brush aside the particular in favor of the general, not to make everything a grand idea, _but to treat something specific with such attention that it magnifies into significance.”_ — from _Good Prose: The Art of Nonfiction_ by Tracy Kidder and Richard Todd
 
-
+Essay related writings:
+- [[Peterson Essay Writing Guide Notes]]

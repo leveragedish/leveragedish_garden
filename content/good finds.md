@@ -18,6 +18,7 @@ A collection of gems I enjoy.
 - [Ben Kuhn](https://www.benkuhn.net/) - he's also got a good index of other [blogs](https://www.benkuhn.net/blogroll/) to read
 - [moontower meta](https://moontowermeta.com/) - ex SIG options trader, he has a lot of good educational content on options trading
 - [Visa's Blog](https://visakanv.com/) : writes about life and is also prolific on twitter. I really like his writing.
+- Paul Graham on [taste](https://paulgraham.com/taste.html)
 
 ### career related
 - [Things Many People Find Too Obvious To Have Told You Already](https://threadreaderapp.com/thread/936615043126370306.html)

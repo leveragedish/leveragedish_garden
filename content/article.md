@@ -1,6 +1,6 @@
 ---
 title: article (grammar)
-draft: true
+draft: false
 tags:
   - grammar
   - writing
