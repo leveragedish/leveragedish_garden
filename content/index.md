@@ -34,7 +34,6 @@ If you want to know how I built this site, or want to build your own, check out 
 
 [[stubs]] - collections of thoughts, that I may or may not write essays on in the future.
 ## interests/studies
-- #weightlifting 
 - #literature
 - #programming 
 - #trading 

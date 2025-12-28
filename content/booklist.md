@@ -14,20 +14,20 @@ If you have any book suggestions! Shoot me an email!
 
 ## To Read
 Books I've bought, but haven't actually cracked into yet.
-- [[Consider the Lobster - David Foster Wallace]]
-- [[Ecce Homo - Neitzsche]]
 - [[The Whisperer In Darkness - H.P. Lovecraft]]
 - [[The Sun Also Rises - Hemingway]]
 - Getting The Words Right - Theodore A. Rees Cheney
 ## Currently reading
-- [[On The Genealogy Of Morals - Friedrich Nietzsche]]
+- [[Ecce Homo - Neitzsche]]
+- [[Consider the Lobster - David Foster Wallace]]
 - [[Financial Hacking - Philip Maymin]]
-- [[On Writing Well - William Zinsser]]
-- 
+
 
 
 # Books I’ve read
 ## 2025
+- [[On Writing Well - William Zinsser]]
+-  [[On The Genealogy Of Morals - Friedrich Nietzsche]]
 - [[The Elements of Style - Strunk, White, Kalman]]
 - [[Emotional Design - Don Norman]]
 - [[Classical Philosophy - Michael Moore]]
