@@ -50,3 +50,6 @@ If you want to know how I built this site, or want to build your own, check out 
 - [[hyperlink surfing]]
 - internet gems: I try to share my favorites that I remember on my [[good finds]] page.
 
+
+Testing the images
+![[bird.webp]] 
